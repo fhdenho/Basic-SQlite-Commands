@@ -2,6 +2,8 @@
 
 The purpose of this tutorial is to demonstrate how to use basic query commands in SQlite. It goes through each of the most commonly used and important commands and explains how and when to use them. All of the examples in this tutorial will use a Movie table with the columns title, releaseYear, and rating. This tutorial does not cover commands associated with creating database tables, only how to retireve information from them. It is also assumed that the user has already set up SQlite.
 
+<<<< https://fhdenho.github.io/Basic-SQlite-Commands-lang/ >>>>
+
 Here is the table that we will get the data from for the following examples
 
 Title                   | Relase year   | Rating
@@ -184,4 +186,4 @@ And finally, we use the GROUP BY command to put the results in a certain order:
 
 And with that we are done. By using a command in this general form you will be able to retrieve the information you want with relative ease. This concludes the tutorial on basic query commands.
 
-<<<< https://fhdenho.github.io/Basic-SQlite-Commands-lang/ >>>>
+
