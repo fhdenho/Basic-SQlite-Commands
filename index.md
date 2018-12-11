@@ -183,3 +183,5 @@ And finally, we use the GROUP BY command to put the results in a certain order:
 	> GROUP BY columnName;
 
 And with that we are done. By using a command in this general form you will be able to retrieve the information you want with relative ease. This concludes the tutorial on basic query commands.
+
+Click Here https://fhdenho.github.io/Basic-SQlite-Commands-lang/
