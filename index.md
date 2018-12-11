@@ -2,7 +2,7 @@
 
 The purpose of this tutorial is to demonstrate how to use basic query commands in SQlite. It goes through each of the most commonly used and important commands and explains how and when to use them. All of the examples in this tutorial will use a Movie table with the columns title, releaseYear, and rating. This tutorial does not cover commands associated with creating database tables, only how to retireve information from them. It is also assumed that the user has already set up SQlite.
 
-<<<< https://fhdenho.github.io/Basic-SQlite-Commands-lang/ >>>>
+(multil-lingual)[https://fhdenho.github.io/Basic-SQlite-Commands-lang/]
 
 Here is the table that we will get the data from for the following examples
 
